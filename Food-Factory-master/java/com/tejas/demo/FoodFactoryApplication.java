@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
 public class FoodFrenzyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FoodFrenzyApplication.class, args);
+		SpringApplication.run(FoodFactoryApplication.class, args);
 	}
 
 }
