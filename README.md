@@ -1,6 +1,6 @@
-# 🍔 FoodFrenzy – Online Food Ordering System
+# 🍔 Food-Factory – Online Food Ordering System
 
-FoodFrenzy is a **Spring Boot–based RESTful web application** designed to simulate a real-world online food ordering platform.  
+FoodFactory is a **Spring Boot–based RESTful web application** designed to simulate a real-world online food ordering platform.  
 It allows users to browse food items, place orders, and manage restaurants efficiently using a scalable backend architecture.
 
 ---
@@ -29,7 +29,7 @@ It allows users to browse food items, place orders, and manage restaurants effic
 ---
 
 ## 📂 Project Structure
-FoodFrenzy
+FoodFactory
 │── src/main/java/com/example/demo
 │ ├── controller # REST controllers
 │ ├── service # Business logic
@@ -57,12 +57,7 @@ FoodFrenzy
 - Maven
 - MySQL (optional if using H2)
 
-### Steps
 
-```bash
-git clone https://github.com/your-username/FoodFrenzy.git
-cd FoodFrenzy
-mvn spring-boot:run
 
 
 
